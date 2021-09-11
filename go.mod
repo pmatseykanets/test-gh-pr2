@@ -1,6 +1,6 @@
 module github.com/pmatseykanets/test-gh-pr1
 
-go 1.15
+go 1.16
 
 replace github.com/aws/aws-sdk-go => github.com/VividCortex/aws-sdk-go v1.35.0
 
